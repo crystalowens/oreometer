@@ -15,32 +15,40 @@ Sections in this ReadMe:
 
 ## Printing Instructions
 
-Designs were made in Autodesk Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210 C extruder temperature, and 55 C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles.
+Design file set: Complete files are included [here](https://github.com/crystalowens/oreometer/tree/main/printable-files) to print a full Oreometer including .stl file format to be directly printable and .step file format to allow easy import and manipulation in most CAD software. We recommend Fusion 360, which is available with a free license for educational use. 
 
-![image](https://user-images.githubusercontent.com/96365229/163449986-2a796cef-dba0-480c-96cc-bbf98f40ec07.png)
+Designs were made in Autodesk Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210 C extruder temperature, and 55 C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles. If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or a company
 
-This is an example layout in Cura to print one large penny castle and oreo base half. The gray box around the penny tower is a support blocker that prevents supports from being generated in all the windows (for ease of removal). But it's not necessary for printing quality. 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/96365229/163449986-2a796cef-dba0-480c-96cc-bbf98f40ec07.png">
+</p>
 
-![image](https://user-images.githubusercontent.com/96365229/163450658-34c8d7cf-3d79-4269-be05-68fd7128652a.png)
+This is an example layout in Cura to print one large penny castle and Oreo base half. The gray box around the penny tower is a support blocker that prevents supports from being generated in all the windows (for ease of removal). But it's not necessary for printing quality. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/96365229/163450658-34c8d7cf-3d79-4269-be05-68fd7128652a.png">
+</p>
 
 The full printed design has a two-part front clamp, two-part back clamp, two penny castles, a two-part base, a bolt, and a nut, assembled as shown. Additional items are rubber bands (we used Advantage Rubber Bands #64 with dimensions 3 1/2 x 1/4 in) and pennies (~2.5 g each) or dimes (~1 g each) to fill one of the penny castles. 
 
-![image](https://user-images.githubusercontent.com/96365229/163477439-c5f05c2f-9841-49a0-b49a-e639caa30c41.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/96365229/163477439-c5f05c2f-9841-49a0-b49a-e639caa30c41.png">
+</p>
 
 All printed and required parts are shown here, with one Oreo clamp assembled. 
 
-![image](https://user-images.githubusercontent.com/96365229/163477651-c38f01a7-3874-4bc8-8c1b-5407ef7f397e.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/96365229/163477651-c38f01a7-3874-4bc8-8c1b-5407ef7f397e.png">
+</p>
 
 Full printed and assembled Oreometer 
 
-
 ## Tutorial on Using the Oreometer
 
-Tutorial: A brief guide is included with suggested questions and activities to use the Oreometer for educational use.  
-
-Design file set: Complete files are included to print a full Oreometer including .stl file format to be directly printable and .step file format to allow import and manipulation in most CAD software (we recommend Fusion 360, which is available with a free license for educational use). 
+This brief guide walks through steps to use the Oreometer, with questions and activities to guide investigation.  
 
 **Learning Objectives**
+
 •	Be able to define rheology and what it is used for 
 
 •	Understand and be able to measure failure stress for soft solids
@@ -65,43 +73,46 @@ Oreos consist of two wafers with creme sandwiched in between. The creme-wafer in
 
 **Materials**
 
-One box of Oreos (any type), sandwich cookie, or fluid between disks that is approximately Oreo-sized
+1. One box of Oreos (any type), sandwich cookie, or fluid between disks that is approximately Oreo-sized
+2. 100 Pennies
+3. 2 Rubber bands
+4. Printed parts from CAD files
+5. Optional: milk
 
-100 Pennies
-
-2 Rubber bands
-
-Printed parts from CAD files
-
-Optional: milk
-
-**Preparation of Printed Parts**
-If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or a company
-
-**Device Construction**
-Assembly video: https://youtu.be/V_gaJ4po_Nw
-
-![image](https://user-images.githubusercontent.com/96365229/163450996-01fa9410-d098-48cd-8763-4900b0bd300a.png)
-
-Tutorial Figure: Labeled components of the Oreometer, and 
-suggested rubber band configuration for clamping the Oreo
+**Assembly video**: https://youtu.be/V_gaJ4po_Nw
 
 **Procedure:**
 1.	Load Oreo into clamps using the suggested rubber band configuration or a configuration of your choosing. Keep in mind that there are two types of clamp halves: front clamp and back clamp. A front clamp has a slot on the side for a penny castle whereas a back clamp does not. Be sure to place clamps of the same type together. 
 
-_What do different rubber band patterns on the clamps do? Can you make one that is too tight? Too loose? 
-_
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_What do different rubber band patterns on the clamps do? Can you make one that is too tight? Too loose?_
+
 2.	Load the clamped Oreo onto the two base halves (which are identical) and adjust the spacing using the nut and bolt. Twist the bolt clockwise until the base halves are close enough to keep the clamps from falling out, but not so close that they squeeze the clamps.
-Why shouldn’t the base halves be moved so close together that they squeeze the clamps?
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Why shouldn’t the base halves be moved so close together that they squeeze the clamps?_
+
 3.	Place the two penny castles into the slots located on the sides of the front clamp. 
-Why are there two penny castles?
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Why are there two penny castles? Can you use just one?_
+
 4.	Start inserting pennies into one of the penny castles until the Oreo twists apart. For easy counting, the windows on the outside of the penny castle are each 5 pennies tall. Below the center of the front clamp, there are tick marks to indicate whether the Oreo has begun to twist. The tick marks are spaced 9° apart, or 1/40th of a revolution.
-Before failure, how much does the Oreo rotate, if at all? After failure, is the creme split evenly onto both wafers or does one wafer have more creme than the other?
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Before failure, how much does the Oreo rotate, if at all? After failure, is the creme split evenly onto both wafers or does one wafer have more creme than the other?_
+
 5.	Record the number of pennies required to cause the Oreo to twist apart. Unclamp the broken Oreo and test out several more Oreos.
-What was the maximum and minimum number of pennies required to twist an Oreo? What was the average number of pennies? Given that the mass of a penny is 2.5 grams and the arm length of the Oreometer is 90 mm, what torque and stress does this correspond to?
-•	Extra 1: See if you can get the Oreo to twist by letting pennies sit in the penny castle for an extended time. This phenomenon is known as delayed yielding. Record the number of pennies and time it took for the Oreo to twist.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _What was the maximum and minimum number of pennies required to twist an Oreo? What was the average number of pennies? Given that the mass of a penny is 2.5 grams and the arm length of the Oreometer is 90 mm, what torque and stress does this correspond to?_
+
+•	Extra 1: See if you can get the Oreo to twist by letting pennies sit in the penny castle for an extended time. This phenomenon is known as delayed yielding. Record the number of pennies and time it took for the Oreo to twist. What is the least number of pennies you can use and still see it yield?  
+
 •	Extra 2: Test out stale, heated, or frozen Oreos. What effect does this have on the number or pennies required to twist the Oreos? How is the creme distributed on the Oreos?
+
 •	Extra 3: Test out different Oreo variations such as mint or Double Stuf or even other cookies of similar shape. How many pennies are required now? Is the creme distribution affected?
 
-**Observation and Results**
-Normal Oreos take around 30-60 pennies to break. However, Oreos that have been heated, chilled, or become stale will likely require more or fewer less pennies than this. It is common to see clean breaks (adhesive failure profiles). This is likely due to the way the Oreos were manufactured, where the creme bonds weakly with one of the wafers. Oftentimes, within an Oreo box most of the weak wafer-creme bonds will be on the same side for all the Oreos.
+**Some observation and results**
+
+<details>
+ <summary>Normal Oreos take around 30-60 pennies to break. However, Oreos that have been heated, chilled, or become stale will likely require more or fewer less pennies than this. It is common to see clean breaks (adhesive failure profiles). This is likely due to the way the Oreos were manufactured, where the creme bonds weakly with one of the wafers. Oftentimes, within an Oreo box most of the weak wafer-creme bonds will be on the same side for all the Oreos. 
+ 
+  Find more details of our observations in our paper. 
+ </summary>
+ </details>
