@@ -12,6 +12,10 @@ Sections:
 
 [1. Printing Instructions](#printing-instructions)
 
+[2. Tutorial on Using the Oreometer](#tutorial-on-using-the-oreometer)
+
+#Printing Instructions
+
 Designs were made in Autodesk Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210 C extruder temperature, and 55 C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles.
 
 ![image](https://user-images.githubusercontent.com/96365229/163449986-2a796cef-dba0-480c-96cc-bbf98f40ec07.png)
@@ -23,15 +27,11 @@ This is an example layout in Cura to print one large penny castle and oreo base 
 The full printed design has a two-part front clamp, two-part back clamp, two penny castles, a two-part base, a bolt, and a nut, assembled as shown. Additional items are rubber bands (we used Advantage Rubber Bands #64 with dimensions 3 1/2 x 1/4 in) and pennies (~2.5 g each) or dimes (~1 g each) to fill one of the penny castles. 
 
 
-[2. Tutorial on Using the Oreometer](#tutorial-on-using-the-oreometer)
 
-#Printing Instructions
+#Tutorial on Using the Oreometer
 
 Tutorial: A brief guide is included with suggested questions and activities to use the Oreometer for educational use.  
 Design file set: Complete files are included to print a full Oreometer including .stl file format to be directly printable and .step file format to allow import and manipulation in most other CAD software. 
-
-
-#Tutorial on Using the Oreometer
 
 **Learning Objectives
 **
