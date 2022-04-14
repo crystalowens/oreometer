@@ -108,11 +108,11 @@ Oreos consist of two wafers with creme sandwiched in between. The creme-wafer in
 
 •	Extra 3: Test out different Oreo variations such as mint or Double Stuf or even other cookies of similar shape. How many pennies are required now? Is the creme distribution affected?
 
-**Some observation and results**
-
 <details>
- <summary>Normal Oreos take around 30-60 pennies to break. However, Oreos that have been heated, chilled, or become stale will likely require more or fewer less pennies than this. It is common to see clean breaks (adhesive failure profiles). This is likely due to the way the Oreos were manufactured, where the creme bonds weakly with one of the wafers. Oftentimes, within an Oreo box most of the weak wafer-creme bonds will be on the same side for all the Oreos. 
+<summary>**Some observation and results**</summary>
+
+ Normal Oreos take around 30-60 pennies to break. However, Oreos that have been heated, chilled, or become stale will likely require more or fewer less pennies than this. It is common to see clean breaks (adhesive failure profiles). This is likely due to the way the Oreos were manufactured, where the creme bonds weakly with one of the wafers. Oftentimes, within an Oreo box most of the weak wafer-creme bonds will be on the same side for all the Oreos. 
  
   Find more details of our observations in our paper. 
- </summary>
+ 
  </details>
