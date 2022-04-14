@@ -1,14 +1,13 @@
-# oreometer
-Files and "how-to" for the Oreometer design files
+# How to print and use the Oreometer
 
-This work is associated with a publication in the Physics of Fluids, to appear April 2022. 
+This work is associated with a publication in the Physics of Fluids, to appear April 2022
 
-On Oreology, the fracture and flow of “milk’s favorite cookie®”
-Crystal E. Owens*, Max R. Fan (范瑞), A. John Hart, Gareth H. McKinley
+>On Oreology, the fracture and flow of “milk’s favorite cookie®”
+>Crystal E. Owens*, Max R. Fan (范瑞), A. John Hart, Gareth H. McKinley
  
 *Correspondence should be addressed to: crystalo@mit.edu  
 
-Sections: 
+Sections in this ReadMe: 
 
 [1. Printing Instructions](#printing-instructions)
 
