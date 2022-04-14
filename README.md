@@ -26,6 +26,11 @@ This is an example layout in Cura to print one large penny castle and oreo base 
 
 The full printed design has a two-part front clamp, two-part back clamp, two penny castles, a two-part base, a bolt, and a nut, assembled as shown. Additional items are rubber bands (we used Advantage Rubber Bands #64 with dimensions 3 1/2 x 1/4 in) and pennies (~2.5 g each) or dimes (~1 g each) to fill one of the penny castles. 
 
+![image](https://user-images.githubusercontent.com/96365229/163477439-c5f05c2f-9841-49a0-b49a-e639caa30c41.png)
+All printed and required parts are shown here, with one Oreo clamp assembled. 
+
+![image](https://user-images.githubusercontent.com/96365229/163477651-c38f01a7-3874-4bc8-8c1b-5407ef7f397e.png)
+Full printed and assembled Oreometer 
 
 
 #Tutorial on Using the Oreometer
