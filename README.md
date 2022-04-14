@@ -14,7 +14,7 @@ Sections:
 
 [2. Tutorial on Using the Oreometer](#tutorial-on-using-the-oreometer)
 
-#Printing Instructions
+## [Printing Instructions]
 
 Designs were made in Autodesk Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210 C extruder temperature, and 55 C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles.
 
@@ -33,13 +33,12 @@ All printed and required parts are shown here, with one Oreo clamp assembled.
 Full printed and assembled Oreometer 
 
 
-#Tutorial on Using the Oreometer
+## [Tutorial on Using the Oreometer]
 
 Tutorial: A brief guide is included with suggested questions and activities to use the Oreometer for educational use.  
 Design file set: Complete files are included to print a full Oreometer including .stl file format to be directly printable and .step file format to allow import and manipulation in most other CAD software. 
 
-**Learning Objectives
-**
+**Learning Objectives**
 •	Be able to define rheology and what it is used for 
 •	Understand and be able to measure failure stress for soft solids
 •	Be able to explain why torque may be different for different cookies but material stress is the same 
@@ -63,20 +62,17 @@ One box of Oreos (any type)
 2 Rubber bands
 Printed parts from CAD files
 
-**Preparation of Printed Parts
-**
+**Preparation of Printed Parts**
 If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or a company
 
-**Device Construction
-**
+**Device Construction**
 Assembly video: https://youtu.be/V_gaJ4po_Nw
 
 ![image](https://user-images.githubusercontent.com/96365229/163450996-01fa9410-d098-48cd-8763-4900b0bd300a.png)
 Tutorial Figure: Labeled components of the Oreometer, and 
 suggested rubber band configuration for clamping the Oreo
 
-**Procedure: 
-**
+**Procedure:**
 1.	Load Oreo into clamps using the suggested rubber band configuration or a configuration of your choosing. Keep in mind that there are two types of clamp halves: front clamp and back clamp. A front clamp has a slot on the side for a penny castle whereas a back clamp does not. Be sure to place clamps of the same type together. 
 What do different rubber band patterns on the clamps do? Can you make one that is too tight? Too loose? 
 2.	Load the clamped Oreo onto the two base halves (which are identical) and adjust the spacing using the nut and bolt. Twist the bolt clockwise until the base halves are close enough to keep the clamps from falling out, but not so close that they squeeze the clamps.
@@ -91,6 +87,5 @@ What was the maximum and minimum number of pennies required to twist an Oreo? Wh
 •	Extra 2: Test out stale, heated, or frozen Oreos. What effect does this have on the number or pennies required to twist the Oreos? How is the creme distributed on the Oreos?
 •	Extra 3: Test out different Oreo variations such as mint or Double Stuf or even other cookies of similar shape. How many pennies are required now? Is the creme distribution affected?
 
-**Observation and Results
-**
+**Observation and Results**
 Normal Oreos take around 30-60 pennies to break. However, Oreos that have been heated, chilled, or become stale will likely require more or fewer less pennies than this. It is common to see clean breaks (adhesive failure profiles). This is likely due to the way the Oreos were manufactured, where the creme bonds weakly with one of the wafers. Oftentimes, within an Oreo box most of the weak wafer-creme bonds will be on the same side for all the Oreos.
