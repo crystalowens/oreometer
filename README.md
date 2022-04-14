@@ -8,15 +8,18 @@ Crystal E. Owens*, Max R. Fan (范瑞), A. John Hart, Gareth H. McKinley
  
 *Correspondence should be addressed to: crystalo@mit.edu  
 
-Sections 
+Sections: 
+[1. Printing Instructions](#printing-instructions)
 
+[2. Tutorial on Using the Oreometer](#tutorial-on-using-the-oreometer)
+
+#Printing Instructions
 
 Tutorial: A brief guide is included with suggested questions and activities to use the Oreometer for educational use.  
 Design file set: Complete files are included to print a full Oreometer including .stl file format to be directly printable and .step file format to allow import and manipulation in most other CAD software. 
 
 
-Tutorial on Using the Frugal Science Oreometer
-*Correspondence should be addressed to: crystalo@mit.edu
+#Tutorial on Using the Oreometer
 
 Learning Objectives
 •	Be able to define rheology and what it is used for 
