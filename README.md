@@ -14,7 +14,7 @@ Sections:
 
 [2. Tutorial on Using the Oreometer](#tutorial-on-using-the-oreometer)
 
-## [Printing Instructions]
+## Printing Instructions
 
 Designs were made in Autodesk Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210 C extruder temperature, and 55 C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles.
 
@@ -27,28 +27,37 @@ This is an example layout in Cura to print one large penny castle and oreo base 
 The full printed design has a two-part front clamp, two-part back clamp, two penny castles, a two-part base, a bolt, and a nut, assembled as shown. Additional items are rubber bands (we used Advantage Rubber Bands #64 with dimensions 3 1/2 x 1/4 in) and pennies (~2.5 g each) or dimes (~1 g each) to fill one of the penny castles. 
 
 ![image](https://user-images.githubusercontent.com/96365229/163477439-c5f05c2f-9841-49a0-b49a-e639caa30c41.png)
+
 All printed and required parts are shown here, with one Oreo clamp assembled. 
 
 ![image](https://user-images.githubusercontent.com/96365229/163477651-c38f01a7-3874-4bc8-8c1b-5407ef7f397e.png)
+
 Full printed and assembled Oreometer 
 
 
-## [Tutorial on Using the Oreometer]
+## Tutorial on Using the Oreometer
 
 Tutorial: A brief guide is included with suggested questions and activities to use the Oreometer for educational use.  
-Design file set: Complete files are included to print a full Oreometer including .stl file format to be directly printable and .step file format to allow import and manipulation in most other CAD software. 
+
+Design file set: Complete files are included to print a full Oreometer including .stl file format to be directly printable and .step file format to allow import and manipulation in most CAD software (we recommend Fusion 360, which is available with a free license for educational use). 
 
 **Learning Objectives**
 •	Be able to define rheology and what it is used for 
+
 •	Understand and be able to measure failure stress for soft solids
+
 •	Be able to explain why torque may be different for different cookies but material stress is the same 
+
 •	Be able to define adhesive and cohesive failure and explain the difference
+
 •	Be able to make your own measurements at home and understand the results
 
 **Background**
 
 Torque is a measure of how much “twist” you apply around a point. Shear stress is the stress in the material in response to this torque and can be calculated by considering the different geometric factors. For example, a disk with small radius and a disk with large radius, made from the same material, will deform with the same shear stress, but the torque will be much greater for the larger disk. 
+
 Rheology is the study of this material deformation for soft solids including creams, cheeses, and more, and a rheometer is the machine we use in a laboratory to measure this property, which is characterized as viscosity (for simple fluids) or rheology (for complex fluids). 
+
 Oreos consist of two wafers with creme sandwiched in between. The creme-wafer interface is an adhesive contact since it is between two different materials. It is not a chemical bond, but a physical interface. The interfaces within the creme are cohesive since they are physical contact within the same material. If the Oreo breaks between the creme and wafer (a clean break), this is adhesive failure, whereas if the Oreo breaks so that creme is on both wafers, this is cohesive failure.
 
 **Introduction**
@@ -57,10 +66,15 @@ Oreos consist of two wafers with creme sandwiched in between. The creme-wafer in
 
 **Materials**
 
-One box of Oreos (any type)
+One box of Oreos (any type), sandwich cookie, or fluid between disks that is approximately Oreo-sized
+
 100 Pennies
+
 2 Rubber bands
+
 Printed parts from CAD files
+
+Optional: milk
 
 **Preparation of Printed Parts**
 If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or a company
@@ -69,12 +83,15 @@ If a 3D printer isn’t available, parts could be printed at a local makerspace,
 Assembly video: https://youtu.be/V_gaJ4po_Nw
 
 ![image](https://user-images.githubusercontent.com/96365229/163450996-01fa9410-d098-48cd-8763-4900b0bd300a.png)
+
 Tutorial Figure: Labeled components of the Oreometer, and 
 suggested rubber band configuration for clamping the Oreo
 
 **Procedure:**
 1.	Load Oreo into clamps using the suggested rubber band configuration or a configuration of your choosing. Keep in mind that there are two types of clamp halves: front clamp and back clamp. A front clamp has a slot on the side for a penny castle whereas a back clamp does not. Be sure to place clamps of the same type together. 
-What do different rubber band patterns on the clamps do? Can you make one that is too tight? Too loose? 
+
+_What do different rubber band patterns on the clamps do? Can you make one that is too tight? Too loose? 
+_
 2.	Load the clamped Oreo onto the two base halves (which are identical) and adjust the spacing using the nut and bolt. Twist the bolt clockwise until the base halves are close enough to keep the clamps from falling out, but not so close that they squeeze the clamps.
 Why shouldn’t the base halves be moved so close together that they squeeze the clamps?
 3.	Place the two penny castles into the slots located on the sides of the front clamp. 
