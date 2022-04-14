@@ -82,29 +82,29 @@ Oreos consist of two wafers with creme sandwiched in between. The creme-wafer in
 **Procedure:**
 1.	Load Oreo into clamps using the suggested rubber band configuration or a configuration of your choosing. Keep in mind that there are two types of clamp halves: front clamp and back clamp. A front clamp has a slot on the side for a penny castle whereas a back clamp does not. Be sure to place clamps of the same type together. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_What do different rubber band patterns on the clamps do? Can you make one that is too tight? Too loose?_
+* _What do different rubber band patterns on the clamps do? Can you make one that is too tight? Too loose?_
 
 2.	Load the clamped Oreo onto the two base halves (which are identical) and adjust the spacing using the nut and bolt. Twist the bolt clockwise until the base halves are close enough to keep the clamps from falling out, but not so close that they squeeze the clamps.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Why shouldn’t the base halves be moved so close together that they squeeze the clamps?_
+* _Why shouldn’t the base halves be moved so close together that they squeeze the clamps?_
 
 3.	Place the two penny castles into the slots located on the sides of the front clamp. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Why are there two penny castles? Can you use just one?_
+* _Why are there two penny castles? Can you use just one?_
 
 4.	Start inserting pennies into one of the penny castles until the Oreo twists apart. For easy counting, the windows on the outside of the penny castle are each 5 pennies tall. Below the center of the front clamp, there are tick marks to indicate whether the Oreo has begun to twist. The tick marks are spaced 9° apart, or 1/40th of a revolution.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Before failure, how much does the Oreo rotate, if at all? After failure, is the creme split evenly onto both wafers or does one wafer have more creme than the other?_
+* _Before creme failure, how much does the Oreo rotate, if at all? After failure, is the creme split evenly onto both wafers or does one wafer have more creme than the other?_
 
 5.	Record the number of pennies required to cause the Oreo to twist apart. Unclamp the broken Oreo and test out several more Oreos.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _What was the maximum and minimum number of pennies required to twist an Oreo? What was the average number of pennies? Given that the mass of a penny is 2.5 grams and the arm length of the Oreometer is 90 mm, what torque and stress does this correspond to?_
+* _What was the maximum and minimum number of pennies required to twist an Oreo? What was the average number of pennies? Given that the mass of a penny is 2.5 grams and the arm length of the Oreometer is 90 mm, what torque and stress does this correspond to?_
 
-•	Extra 1: See if you can get the Oreo to twist by letting pennies sit in the penny castle for an extended time. This phenomenon is known as delayed yielding. Record the number of pennies and time it took for the Oreo to twist. What is the least number of pennies you can use and still see it yield?  
+* Extra 1: See if you can get the Oreo to twist by letting pennies sit in the penny castle for an extended time. This phenomenon is known as delayed yielding. Record the number of pennies and time it took for the Oreo to twist. What is the least number of pennies you can use and still see it yield?  
 
-•	Extra 2: Test out stale, heated, or frozen Oreos. What effect does this have on the number or pennies required to twist the Oreos? How is the creme distributed on the Oreos?
+* Extra 2: Test out stale, heated, or frozen Oreos. What effect does this have on the number or pennies required to twist the Oreos? How is the creme distributed on the Oreos?
 
-•	Extra 3: Test out different Oreo variations such as mint or Double Stuf or even other cookies of similar shape. How many pennies are required now? Is the creme distribution affected?
+* Extra 3: Test out different Oreo variations such as mint or Double Stuf or even other cookies of similar shape. How many pennies are required now? Is the creme distribution affected?
 
 <details>
  <summary><b>Some observation and results</b></summary>
