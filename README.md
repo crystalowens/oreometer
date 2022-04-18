@@ -1,21 +1,23 @@
 # How to print and use the Oreometer
 
-This work is associated with a publication in the Physics of Fluids, to appear online April 19, 2022
+When you want to study the fluid mechanics of food, or "**Fooid Mechanics**," with scientific rigor, you need a tool to make quantitative measurements. Here, we share printable files so that anyone with access to a 3D printer can make their own Oreometer, for measuring the rheology of Oreos and other sandwich cookies and snacks. 
+
+This work is associated with a publication in the Physics of Fluids, to appear online April 19, 2022, which has more detail on the physics and rheology of Oreo cream as measured on our laboratory rheometer and on our Oreometer. 
 
 >On Oreology, the fracture and flow of “milk’s favorite cookie®”
 >Crystal E. Owens (crystalo@mit.edu), Max R. Fan (范瑞), A. John Hart, Gareth H. McKinley
  
 Sections in this ReadMe: 
 
-[1. Printing Instructions](#printing-instructions)
+[1. 3D printing instructions](#printing-instructions)
 
-[2. Tutorial on Using the Oreometer](#tutorial-on-using-the-oreometer)
+[2. Guided tutorial on using the Oreometer](#tutorial-on-using-the-oreometer)
 
-## Printing Instructions
+## 3D printing instructions
 
 Design file set: Complete files are included [here](https://github.com/crystalowens/oreometer/tree/main/printable-files) to print a full Oreometer including .stl file format to be directly printable and .step file format to allow easy import and manipulation in most CAD software. We recommend Fusion 360, which is available with a free license for educational use. 
 
-Designs were made in Autodesk Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210 C extruder temperature, and 55 C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles. If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or a company
+Designs were made in Autodesk Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210 C extruder temperature, and 55 C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles. If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or ordered from a 3D printing company. 
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/96365229/163449986-2a796cef-dba0-480c-96cc-bbf98f40ec07.png">
@@ -41,11 +43,13 @@ All printed and required parts are shown here, with one Oreo clamp assembled.
 
 Full printed and assembled Oreometer 
 
-## Tutorial on Using the Oreometer
+**Computer-generated Oreometer assembly video**: https://youtu.be/V_gaJ4po_Nw
 
-This brief guide walks through steps to use the Oreometer, with questions and activities to guide investigation.  
+## Guided tutorial on using the Oreometer
 
-**Learning Objectives**
+This section walks you through steps to use the Oreometer, with questions and activities to guide investigation.  
+
+**Learning objectives**
 
 •	Be able to define rheology and what it is used for 
 
@@ -77,8 +81,6 @@ Oreos consist of two wafers with creme sandwiched in between. The creme-wafer in
 4. Printed parts from CAD files
 5. Optional: milk
 
-**Assembly video**: https://youtu.be/V_gaJ4po_Nw
-
 **Procedure:**
 1.	Load Oreo into clamps using the suggested rubber band configuration or a configuration of your choosing. Keep in mind that there are two types of clamp halves: front clamp and back clamp. A front clamp has a slot on the side for a penny castle whereas a back clamp does not. Be sure to place clamps of the same type together. 
 
@@ -106,12 +108,16 @@ Oreos consist of two wafers with creme sandwiched in between. The creme-wafer in
 
 * Extra 3: Test out different Oreo variations such as mint or Double Stuf or even other cookies of similar shape. How many pennies are required now? Is the creme distribution affected?
 
+* What other questions do you have? 
+
 <details>
  <summary><b>Some observation and results</b></summary>
 
- Normal Oreos take around 30-60 pennies to break. However, Oreos that have been heated, chilled, or become stale will likely require more or fewer less pennies than this. 
+ In our lab, we found that normal Oreos take around 30-60 pennies to break. However, Oreos that have been heated, chilled, or become stale will likely require more or fewer less pennies than this. 
  
  It is common to see clean breaks (adhesive failure profiles). This is likely due to [the way the Oreos were manufactured](https://www.youtube.com/watch?t=193&v=HlZmDxcbpWw&feature=youtu.be), where the creme bonds weakly with one of the wafers. Oftentimes, within an Oreo box most of the weak wafer-creme bonds will be on the same side for all the Oreos. 
+ 
+ Our record in lab for the fewest pennies to break an Oreo open was 10, when we left it in our Oreometer overnight, and it was twisted open by the next morning (due to delayed yielding). Can you do fewer? 
  
   Find more details of our observations in our paper. 
  
