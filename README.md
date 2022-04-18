@@ -1,6 +1,6 @@
 # How to print and use the Oreometer
 
-This work is associated with a publication in the Physics of Fluids, to appear April 2022
+This work is associated with a publication in the Physics of Fluids, to appear online April 19, 2022
 
 >On Oreology, the fracture and flow of “milk’s favorite cookie®”
 >Crystal E. Owens (crystalo@mit.edu), Max R. Fan (范瑞), A. John Hart, Gareth H. McKinley
