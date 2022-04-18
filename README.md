@@ -9,9 +9,9 @@ This work is associated with a publication in the Physics of Fluids, to appear o
  
 Sections in this ReadMe: 
 
-[1. 3D printing instructions](#printing-instructions)
+[1. 3D printing instructions](#3d-printing-instructions)
 
-[2. Guided tutorial on using the Oreometer](#tutorial-on-using-the-oreometer)
+[2. Guided tutorial on using the Oreometer](#guided-tutorial-on-using-the-oreometer)
 
 ## 3D printing instructions
 
