@@ -17,7 +17,7 @@ Sections in this ReadMe:
 
 Design file set: Complete files are included [here](https://github.com/crystalowens/oreometer/tree/main/printable-files) to print a full Oreometer including .stl file format to be directly printable and .step file format to allow easy import and manipulation in most CAD software. We recommend Fusion 360, which is available with a free license for educational use. 
 
-Designs were made in Autodesk Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210 C extruder temperature, and 55 C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles. If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or ordered from a 3D printing company. 
+Designs were made in Autodesk Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210°C extruder temperature, and 55°C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles. If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or ordered from a 3D printing company. 
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/96365229/163449986-2a796cef-dba0-480c-96cc-bbf98f40ec07.png">
@@ -29,7 +29,7 @@ This is an example layout in Cura to print one large penny castle and Oreo base 
 <img src="https://user-images.githubusercontent.com/96365229/163450658-34c8d7cf-3d79-4269-be05-68fd7128652a.png">
 </p>
 
-The full printed design has a two-part front clamp, two-part back clamp, two penny castles, a two-part base, a bolt, and a nut, assembled as shown. Additional items are rubber bands (we used Advantage Rubber Bands #64 with dimensions 3 1/2 x 1/4 in) and pennies (~2.5 g each) or dimes (~1 g each) to fill one of the penny castles. 
+The fully-printed design has a two-part front clamp, two-part back clamp, two penny castles, a two-part base, a bolt, and a nut, assembled as shown. Additional items are rubber bands (we used Advantage Rubber Bands #64 with dimensions 3 1/2 x 1/4 in) and pennies (~2.5 g each) or dimes (~1 g each) to fill one of the penny castles. 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/96365229/163477439-c5f05c2f-9841-49a0-b49a-e639caa30c41.png">
