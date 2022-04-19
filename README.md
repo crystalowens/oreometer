@@ -15,9 +15,9 @@ Sections in this ReadMe:
 
 ## 3D printing instructions
 
-Design file set: Complete files are included [here](https://github.com/crystalowens/oreometer/tree/main/printable-files) to print a full Oreometer including .stl file format to be directly printable and .step file format to allow easy import and manipulation in most CAD software. We recommend Fusion 360, which is available with a free license for educational use. 
+Design file set: Complete files are included [here](https://github.com/crystalowens/oreometer/tree/main/printable-files) to print a full Oreometer including .stl file format to be directly printable and .step file format to allow easy import and manipulation in most CAD software. We recommend Autodesk Fusion 360, which is available with a free license for educational use. 
 
-Designs were made in Autodesk Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210°C extruder temperature, and 55°C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles. If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or ordered from a 3D printing company. 
+Designs were made in Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210°C extruder temperature, and 55°C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles. If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or ordered from a 3D printing service bureau. 
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/96365229/163449986-2a796cef-dba0-480c-96cc-bbf98f40ec07.png">
@@ -117,7 +117,7 @@ Oreos consist of two wafers with creme sandwiched in between. The creme-wafer in
  
  It is common to see clean breaks (adhesive failure profiles). This is likely due to [the way the Oreos were manufactured](https://www.youtube.com/watch?t=193&v=HlZmDxcbpWw&feature=youtu.be), where the creme bonds weakly with one of the wafers. Oftentimes, within an Oreo box most of the weak wafer-creme bonds will be on the same side for all the Oreos. 
  
- Our record in lab for the fewest pennies to break an Oreo open was 10, when we left it in our Oreometer overnight, and it was twisted open by the next morning (due to delayed yielding). Can you do fewer? 
+ Our record in lab for the fewest pennies to break an Oreo open was 10. We left our Oreometer overnight, and it was twisted open by the next morning (due to delayed yielding). Can you do fewer? 
  
   Find more details of our observations in our paper. 
  
