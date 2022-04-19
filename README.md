@@ -4,9 +4,8 @@ When you want to study the fluid mechanics of food, or "**Fooid Mechanics**," wi
 
 This work is associated with a publication in the Physics of Fluids, to appear online April 19, 2022, which has more detail on the physics and rheology of Oreo creme as measured on our laboratory rheometer and on our Oreometer. 
 
->On Oreology, the fracture and flow of “milk’s favorite cookie®”
->
->Crystal E. Owens (crystalo@mit.edu), Max R. Fan (范瑞), A. John Hart, Gareth H. McKinley
+>On Oreology, the fracture and flow of “milk’s favorite cookie®” 
+>by Crystal E. Owens (crystalo@mit.edu), Max R. Fan (范瑞), A. John Hart, Gareth H. McKinley
  
 Sections in this ReadMe: 
 
