@@ -2,7 +2,7 @@
 
 When you want to study the fluid mechanics of food, or "**Fooid Mechanics**," with scientific rigor, you need a tool to make quantitative measurements. Here, we share printable files so that anyone with access to a 3D printer can make their own Oreometer, for measuring the rheology of Oreos and other sandwich cookies and snacks. 
 
-This work is associated with a publication in the Physics of Fluids, to appear online April 19, 2022, which has more detail on the physics and rheology of Oreo cream as measured on our laboratory rheometer and on our Oreometer. 
+This work is associated with a publication in the Physics of Fluids, to appear online April 19, 2022, which has more detail on the physics and rheology of Oreo creme as measured on our laboratory rheometer and on our Oreometer. 
 
 >On Oreology, the fracture and flow of “milk’s favorite cookie®”
 >Crystal E. Owens (crystalo@mit.edu), Max R. Fan (范瑞), A. John Hart, Gareth H. McKinley
