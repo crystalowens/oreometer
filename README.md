@@ -63,9 +63,9 @@ This section walks you through steps to use the Oreometer, with questions and ac
 
 **Background**
 
-Torque is a measure of how much “twist” you apply around a point. Shear stress is the stress in the material in response to this torque and can be calculated by considering the different geometric factors. For example, a disk with small radius and a disk with large radius, made from the same material, will deform with the same shear stress, but the torque will be much greater for the larger disk. 
+Torque is a measure of how much “twist” you apply around a point. Shear stress is the stress in the material in response to this torque and can be calculated by considering the different geometric factors. For example, a disk with small radius and a disk with large radius, made from the same material, will deform with the same shear stress, but the torque will be much greater for the larger disk. Specific equations are included in our paper. 
 
-Rheology is the study of this material deformation for soft solids including creams, cheeses, and more, and a rheometer is the machine we use in a laboratory to measure this property, which is characterized as viscosity (for simple fluids) or rheology (for complex fluids). 
+Rheology is the study of this material deformation for soft solids including creams, cheeses, and more, and a rheometer is the machine we use in a laboratory to measure this property, which is characterized as viscosity (for simple fluids) or rheology (for complex or non-Newtonian fluids that have a non-constant viscosity). 
 
 Oreos consist of two wafers with creme sandwiched in between. The creme-wafer interface is an adhesive contact since it is between two different materials. It is not a chemical bond, but a physical interface. The interfaces within the creme are cohesive since they are physical contact within the same material. If the Oreo breaks between the creme and wafer (a clean break), this is adhesive failure, whereas if the Oreo breaks so that creme is on both wafers, this is cohesive failure.
 
@@ -77,7 +77,7 @@ Oreos consist of two wafers with creme sandwiched in between. The creme-wafer in
 
 1. One box of Oreos (any type), sandwich cookie, or fluid between disks that is approximately Oreo-sized
 2. 100 Pennies
-3. 2 Rubber bands
+3. 2 rubber bands
 4. Printed parts from CAD files
 5. Optional: milk
 
@@ -113,7 +113,7 @@ Oreos consist of two wafers with creme sandwiched in between. The creme-wafer in
 <details>
  <summary><b>Some observation and results</b></summary>
 
- In our lab, we found that normal Oreos take around 30-60 pennies to break. However, Oreos that have been heated, chilled, or become stale will likely require more or fewer less pennies than this. 
+ In our lab, we found that normal Oreos take around 30-60 pennies to break. However, Oreos that have been heated, chilled, or become stale will likely require more or fewer pennies. 
  
  It is common to see clean breaks (adhesive failure profiles). This is likely due to [the way Oreos are manufactured](https://www.youtube.com/watch?t=193&v=HlZmDxcbpWw&feature=youtu.be), where the creme seems to bond more weakly with one of the wafers. Oftentimes, within an Oreo box most of the weak wafer-creme bonds will be on the same side for all the Oreos, and also affected by the location of the Oreos inside the box. 
  
