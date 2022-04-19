@@ -17,7 +17,7 @@ Sections in this ReadMe:
 
 Design file set: Complete files are included [here](https://github.com/crystalowens/oreometer/tree/main/printable-files) to print a full Oreometer including .stl file format to be directly printable and .step file format to allow easy import and manipulation in most CAD software. We recommend Autodesk Fusion 360, which is available with a free license for educational use. 
 
-Designs were made in Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210°C extruder temperature, and 55°C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles. If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or ordered from a 3D printing service bureau. 
+Designs were made in Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210°C extruder temperature, and 55°C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles. If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or ordered from a 3D printing service bureau. 3D printed plastic is often not "food-grade", so Oreos used for rheology experiments should not be consumed if this is the case for your printed parts! 
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/96365229/163449986-2a796cef-dba0-480c-96cc-bbf98f40ec07.png">
