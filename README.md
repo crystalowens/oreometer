@@ -43,7 +43,7 @@ All printed and required parts are shown here, with one Oreo clamp assembled aro
 
 Fully-printed and assembled Oreometer, ready for use! 
 
-**Computer-generated Oreometer assembly video**: https://youtu.be/V_gaJ4po_Nw
+**Animated Oreometer assembly video**: https://youtu.be/V_gaJ4po_Nw
 
 ## Guided tutorial on using the Oreometer
 
@@ -63,7 +63,7 @@ This section walks you through steps to use the Oreometer, with questions and ac
 
 **Background**
 
-Torque is a measure of how much “twist” you apply around a point. Shear stress is the stress in the material in response to this torque and can be calculated by considering the different geometric factors. For example, a disk with small radius and a disk with large radius, made from the same material, will deform with the same shear stress, but the torque will be much greater for the larger disk. Specific equations are included in our paper. 
+Torque is a measure of how much “twist” you apply around a point. Shear stress is the stress in the material in response to this torque and can be calculated by considering the different geometric factors. For example, a disk with small radius and a disk with large radius, made from the same material, will deform with the same shear stress, but the torque will be much greater for the larger disk. Specific equations to convert between torque and stress are included in our paper. 
 
 Rheology is the study of this material deformation for soft solids including creams, cheeses, and more, and a rheometer is the machine we use in a laboratory to measure this property, which is characterized as viscosity (for simple fluids) or rheology (for complex or non-Newtonian fluids that have a non-constant viscosity). 
 
