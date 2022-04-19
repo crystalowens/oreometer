@@ -35,13 +35,13 @@ The fully-printed design has a two-part front clamp, two-part back clamp, two pe
 <img src="https://user-images.githubusercontent.com/96365229/163477439-c5f05c2f-9841-49a0-b49a-e639caa30c41.png">
 </p>
 
-All printed and required parts are shown here, with one Oreo clamp assembled. 
+All printed and required parts are shown here, with one Oreo clamp assembled around a cookie. 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/96365229/163477651-c38f01a7-3874-4bc8-8c1b-5407ef7f397e.png">
 </p>
 
-Full printed and assembled Oreometer 
+Fully-printed and assembled Oreometer, ready for use! 
 
 **Computer-generated Oreometer assembly video**: https://youtu.be/V_gaJ4po_Nw
 
