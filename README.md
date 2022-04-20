@@ -15,7 +15,7 @@ Sections in this ReadMe:
 
 ## 3D printing instructions
 
-Design file set: Complete files are included [here](https://github.com/crystalowens/oreometer/tree/main/printable-files) to print a full Oreometer including .stl file format to be directly printable after slicing and .step file format to allow easy import and manipulation in most CAD software. If you want to modify the files, we recommend Autodesk Fusion 360, which is available with a free license for educational use. If you come up with a cool modification, please share with us! 
+Design file set: Complete files are included [in this current github repo](https://github.com/crystalowens/oreometer/tree/main/printable-files) to print a full Oreometer including .stl file format to be directly printable after slicing and .step file format to allow easy import and manipulation in most CAD software. If you want to modify the files, we recommend Autodesk Fusion 360, which is available with a free license for educational use. If you come up with a cool modification, please share with us! 
 
 Designs were made in Fusion 360 and printed out of PLA using a Creality Ender 3. Parts were sliced with Cura using a 0.3mm layer height, 20% infill, 210°C extruder temperature, and 55°C bed temperature, and printed with supports for the base halves, Oreo clamps, and penny castles. If a 3D printer isn’t available, parts could be printed at a local makerspace, in a local school or library that has a 3D printer, or ordered from a 3D printing service bureau. 3D printed plastic is often not "food-grade", so Oreos used for rheology experiments should not be consumed if this is the case for your printed parts! 
 
@@ -102,23 +102,23 @@ Oreos consist of two wafers with creme sandwiched in between. The creme-wafer in
 
 * _What was the maximum and minimum number of pennies required to twist an Oreo? What was the average number of pennies? Given that the mass of a penny is 2.5 grams and the arm length of the Oreometer is 90 mm, what torque and stress does this correspond to?_
 
-* Extra 1: See if you can get the Oreo to twist by letting pennies sit in the penny castle for an extended time. This phenomenon is known as delayed yielding. Record the number of pennies and time it took for the Oreo to twist. What is the least number of pennies you can use and still see it yield?  
+* Extra 1: See if you can get the Oreo to twist by letting pennies sit in the penny castle for an extended time. Even with low stresses, Oreos will continue to deform slightly, which is called [creep](https://en.wikipedia.org/wiki/Creep_(deformation)), and sometimes they will suddenly fail, even though no more stress has been applied. This phenomenon is known as delayed yielding, and is related to how landslides and avalanches happen. (Snow and mud are yield stress fluids!) Record the number of pennies and time it took for the Oreo to twist. What is the least number of pennies you can use and still see it yield?  
 
-* Extra 2: Test out stale, heated, or frozen Oreos. What effect does this have on the number or pennies required to twist the Oreos? How is the creme distributed on the Oreos?
+* Extra 2: Test out stale, heated, or frozen Oreos. What effect does this have on the number or pennies required to twist the Oreos? How is the creme distributed on the Oreos affected? What temperature gives the cleanest wafer/creme surface? 
 
 * Extra 3: Test out different Oreo variations such as mint or Double Stuf or even other cookies of similar shape. How many pennies are required now? Is the creme distribution affected?
 
 * What other questions do you have? 
 
 <details>
- <summary><b>Some observation and results</b></summary>
+ <summary><b>Some observation and results (click to reveal) </b></summary>
 
  In our lab, we found that normal Oreos take around 30-60 pennies to break. However, Oreos that have been heated, chilled, or become stale will likely require more or fewer pennies. 
  
  It is common to see clean breaks (adhesive failure profiles). This is likely due to [the way Oreos are manufactured](https://www.youtube.com/watch?t=193&v=HlZmDxcbpWw&feature=youtu.be), where the creme seems to bond more weakly with one of the wafers. Oftentimes, within an Oreo box most of the weak wafer-creme bonds will be on the same side for all the Oreos, and also affected by the location of the Oreos inside the box. 
  
- The record in our lab for the fewest pennies to break an Oreo open was 10. We left our Oreometer set up overnight, and it was twisted open by the next morning (due to delayed yielding). Can you do fewer? 
+ The record in our lab for the fewest pennies to break an Oreo open was 10. We left our Oreometer set up overnight, and it was twisted open by the next morning (due to delayed yielding). Can you make it happen with fewer? 
  
-  Find more details of our observations in [our full paper](https://aip.scitation.org/doi/full/10.1063/5.0085362)
+  Find more details of our observations in [our full paper in the Physics of Fluids](https://aip.scitation.org/doi/full/10.1063/5.0085362)
  
  </details>
