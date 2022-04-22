@@ -108,6 +108,8 @@ Oreos consist of two wafers with creme sandwiched in between. The creme-wafer in
 
 * Extra 3: Test out different Oreo variations such as mint or Double Stuf or even other cookies of similar shape. How many pennies are required now? Is the creme distribution affected?
 
+* Extra 4 (design skills required!): Design and print your own cookie "wafers" as two disks that are 46 mm in diameter and about 2 mm in thickness. For best results, add some texture to one surface. Alternatively, find other cookies or crackers of similar size. Use these to make your own sandwiches with other complex fluids in between. How does the yield stress of peanut butter compare to Oreo creme? Hot sauce? Can you find a stronger fluid in your kitchen?   
+
 * What other questions do you have? 
 
 <details>
